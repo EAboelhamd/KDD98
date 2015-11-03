@@ -1,2 +1,2 @@
-# KDD98
-Python programs for cleaning and machine learning on the KDD cup 98 data set
+#
+Python programs for cleaning and machine learning on the KDD98 data set
